@@ -7,7 +7,8 @@
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/EZSwiftExtensions.svg)](https://img.shields.io/cocoapods/v/LFAlertController.svg)  
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 
-![](header.png)
+![main](https://github.com/diegoisco/AppStore-iOS/blob/master/screenshots/main.png)
+![main2](https://github.com/diegoisco/AppStore-iOS/blob/master/screenshots/main2.png)
 
 ## Features
 
